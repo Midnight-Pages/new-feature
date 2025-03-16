@@ -1,8 +1,8 @@
 # 🌟 Midnight Pages Feature Request Guide 🚀  
 
-Hey there, creative genius! 🎨✨  
+Hey there, creative thinker! 🎨✨  
 
-Got an awesome idea that would make **Midnight Pages** even better? We’d love to hear it! 💡  
+Got an amazing idea to make **Midnight Pages** even better? We’d love to hear it! 💡  
 This guide will help you submit a **feature request** the right way so we can consider it for future updates.  
 
 ---
@@ -10,17 +10,17 @@ This guide will help you submit a **feature request** the right way so we can co
 ## 📌 **How to Request a New Feature**  
 
 1️⃣ **Check for Existing Requests**  
-Before submitting, take a quick look at our [feature requests](https://github.com/Midnight-Pages/report-bugs/issues) to see if someone has already suggested your idea. If they have, drop a comment and 👍 to show support!  
+Before submitting, take a quick look at our [feature requests](https://github.com/Midnight-Pages/new-feature/issues) to see if someone has already suggested your idea. If they have, drop a comment and 👍 to show support!  
 
 2️⃣ **Open a New Feature Request**  
-Head over to [this link](https://github.com/Midnight-Pages/report-bugs/issues/new) and select **"Feature Request"**.  
+Click **[here](https://github.com/Midnight-Pages/new-feature/issues/new)** and select **"Feature Request"** or **"Enhancement"**, depending on your idea.  
 
 3️⃣ **Fill in the Details** 📝  
 Make sure to include:  
-- **A clear title** (e.g., "Add dark mode toggle for mobile users 🌑")  
+- **A clear title** (e.g., "Add custom themes for better UX 🎨")  
 - **A detailed description** (What does this feature do? How does it improve the experience?)  
 - **Use case or benefits** (Why is this important? Who will it help?)  
-- **Mockups or examples** (if possible 🎨📸)  
+- **Mockups or examples** (if possible 📸)  
 
 ---
 
@@ -53,4 +53,4 @@ Once you submit a feature request:
 Your feedback helps shape the future of Midnight Pages! 🌙💜  
 Got a cool idea? Don’t hesitate—**submit it now!** 🚀  
 
-📌 **[Submit a Feature Request](https://github.com/Midnight-Pages/report-bugs/issues/new)**  
+📌 **[Submit a Feature Request](https://github.com/Midnight-Pages/new-feature/issues/new)**
