@@ -13,7 +13,7 @@ This guide will help you submit a **feature request** the right way so we can co
 Before submitting, take a quick look at our [feature requests](https://github.com/Midnight-Pages/new-feature/issues) to see if someone has already suggested your idea. If they have, drop a comment and 👍 to show support!  
 
 2️⃣ **Open a New Feature Request**  
-Click **[here](https://github.com/Midnight-Pages/new-feature/issues/new)** and select **"Feature Request"** or **"Enhancement"**, depending on your idea.  
+Click **[here](https://github.com/Midnight-Pages/new-feature/issues/new?template=feature_request.yml)** and select **"Feature Request"** or **"Enhancement"**, depending on your idea.  
 
 3️⃣ **Fill in the Details** 📝  
 Make sure to include:  
@@ -35,8 +35,6 @@ Make sure to include:
 > - Aids in readability for different users.  
 > - Makes Midnight Pages feel more unique.  
 >  
-> **Mockup Idea:**  
-> ![mockup-example](https://example.com/mockup.png)  
 
 ---
 
@@ -53,4 +51,4 @@ Once you submit a feature request:
 Your feedback helps shape the future of Midnight Pages! 🌙💜  
 Got a cool idea? Don’t hesitate—**submit it now!** 🚀  
 
-📌 **[Submit a Feature Request](https://github.com/Midnight-Pages/new-feature/issues/new)**
+📌 **[Submit a Feature Request](https://github.com/Midnight-Pages/new-feature/issues/new?template=feature_request.yml)**
