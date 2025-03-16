@@ -1,0 +1,76 @@
+name: "🌟 Feature Request"
+description: "Suggest a new feature or improvement for Midnight Pages!"
+title: "[Feature] "
+labels: ["feature", "enhancement"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: "## 🚀 Feature Request\n\nThank you for sharing your idea! Please fill out the details below so we can consider it for future updates. ✨"
+
+  - type: input
+    id: feature-title
+    attributes:
+      label: "🔖 Feature Title"
+      description: "Give a short, clear name for your feature."
+      placeholder: "E.g., Add custom themes for personalization 🎨"
+    validations:
+      required: true
+
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: "📌 Feature Description"
+      description: "What is this feature about? How should it work?"
+      placeholder: "Describe your feature idea..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: use-case
+    attributes:
+      label: "🎯 Why is this Useful?"
+      description: "Who would benefit from this feature and why?"
+      placeholder: "Explain the impact of this feature..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: feature-type
+    attributes:
+      label: "🔍 Feature Type"
+      description: "What kind of feature is this?"
+      options:
+        - "UI/UX Improvement 🎨"
+        - "New Writing Tool ✍️"
+        - "Collaboration Feature 🤝"
+        - "Performance Enhancement 🚀"
+        - "Other"
+    validations:
+      required: true
+
+  - type: textarea
+    id: similar-features
+    attributes:
+      label: "🔄 Similar Features"
+      description: "Does this feature exist in other apps? If so, how does it work?"
+      placeholder: "Example: This feature is available in Notion and works like this..."
+  
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: "📸 Mockups / Examples (if applicable)"
+      description: "Upload screenshots, sketches, or links to illustrate your idea."
+      placeholder: "Drag & drop or attach images here."
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: "🚨 Before Submitting..."
+      description: "Please confirm:"
+      options:
+        - label: "I have searched for existing feature requests. 🔎"
+          required: true
+        - label: "I have provided a detailed explanation. ✍️"
+          required: true
